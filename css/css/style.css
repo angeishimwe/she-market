@@ -1,0 +1,30 @@
+body{
+  font-family: Arial;
+  background:#f4f4f4;
+  text-align:center;
+  margin:20px;
+}
+
+input, select, button{
+  padding:10px;
+  margin:5px;
+}
+
+button{
+  background:green;
+  color:white;
+  border:none;
+  cursor:pointer;
+}
+
+.product{
+  border:1px solid #ccc;
+  padding:10px;
+  margin:10px;
+  display:inline-block;
+  width:200px;
+}
+
+.product img{
+  width:100%;
+}
